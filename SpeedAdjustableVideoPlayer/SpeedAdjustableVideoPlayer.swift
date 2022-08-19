@@ -21,7 +21,7 @@ struct SpeedAdjustableVideoPlayer: View {
         VStack {
             VideoPlayer(player: viewModel.player)
             
-            HStack(spacing: 1) {
+            HStack() {
                 Spacer()
                 
                 Menu(viewModel.displaySpeedTitle) {
