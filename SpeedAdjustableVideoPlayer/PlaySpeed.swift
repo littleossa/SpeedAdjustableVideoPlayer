@@ -1,6 +1,6 @@
 //
 //  PlaySpeed.swift
-//  VideoPlayerPractice
+//  SpeedAdjustableVideoPlayer
 //
 //  Created by littleossa on 2022/08/19.
 //
